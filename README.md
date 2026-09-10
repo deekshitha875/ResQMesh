@@ -142,4 +142,4 @@ Place Phone 1 and Phone 2 more than 15m apart. Phone 3 in between. Tap SOS on Ph
 
 ## 📄 License
 
-This project was built for Smart India Hackathon 2026. All rights reserved © OGTEAM 2026.
+This project was built for Smart India Hackathon 2026. All rights reserved © OG 2026.
