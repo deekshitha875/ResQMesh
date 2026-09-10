@@ -134,7 +134,7 @@ Place Phone 1 and Phone 2 more than 15m apart. Phone 3 in between. Tap SOS on Ph
 
 | | |
 |---|---|
-| **Team Name** | OGTEAM |
+| **Team Name** | OG |
 | **Team ID** | TEAM-145 |
 | **Hackathon** | Smart India Hackathon 2026 |
 
